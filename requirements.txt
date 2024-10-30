@@ -3,3 +3,4 @@ pandas==2.2.2
 scikit-learn==1.4.2
 streamlit==1.32.0
 xgboost==2.1.2
+category-encoders==2.6.4
